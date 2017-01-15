@@ -1,0 +1,4 @@
+*.zip
+*.idea
+*.log
+.DS_Store
